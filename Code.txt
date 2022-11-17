@@ -1,2 +1,3 @@
 start of feature 1.
 	continue 1.
+End of feature 1.
